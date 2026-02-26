@@ -33,3 +33,25 @@ Meaning:
 
 ---
 
+## Motor Specification (Estimated)
+
+Motor type: Generic TT gear motor  
+Estimated rated RPM: **200 RPM**  
+Operating voltage: 3–6V  
+
+NOTE:
+Exact RPM unknown and will be measured experimentally.
+
+---
+
+## Estimated Maximum Speed
+
+Wheel circumference ≈ 20.4 cm
+
+Speed ≈ RPM × circumference
+
+200 × 20.4 cm/min ≈ 4080 cm/min  
+≈ 68 cm/s  
+≈ **0.68 m/s**
+
+This represents the theoretical maximum speed without load.
