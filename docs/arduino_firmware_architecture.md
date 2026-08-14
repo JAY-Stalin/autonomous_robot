@@ -2,7 +2,7 @@
 # Arduino Firmware Architecture
 
 Project: Autonomous 4-Wheel Robot
-Controller: Arduino (Nano / Uno)
+Controller: Arduino Uno
 Role: Real-time control layer
 
 ---
